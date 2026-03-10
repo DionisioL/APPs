@@ -1,2 +1,3 @@
-# APPs
-Apps do Gemini
+# APP Finanças
+
+App para acompanhamento de gastos
